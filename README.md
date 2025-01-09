@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! 👋 Soy Elkin, un apasionado estudiante de tercer semestre <br>de Ingeniería en Sistemas. Me encanta explorar el mundo de la <br>programación y el desarrollo de software, buscando<br>constantemente aprender nuevas tecnologías y mejorar<br> mis habilidades. <br>En mi repositorio encontrarás proyectos donde aplico lo que he <br>aprendido en mis clases y también mis propias exploraciones y <br>experimentos. ¡Únete a mí en este viaje de aprendizaje <br>y crecimiento en el fascinante mundo de la informática!
+¡Hola! 👋 Soy Elkin, un apasionado estudiante de quinto semestre <br>de Ingeniería en Sistemas. Me encanta explorar el mundo de la <br>programación y el desarrollo de software, buscando<br>constantemente aprender nuevas tecnologías y mejorar<br> mis habilidades. <br>En mi repositorio encontrarás proyectos donde aplico lo que he <br>aprendido en mis clases y también mis propias exploraciones y <br>experimentos. ¡Únete a mí en este viaje de aprendizaje <br>y crecimiento en el fascinante mundo de la informática!
 
 
 
